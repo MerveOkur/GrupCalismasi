@@ -10,7 +10,7 @@ public class Grup {
       System.out.println("15:19 - dorduncu commit");
 		
 		
-     System.out.println("15:45 - son commit");
+      System.out.println("15:45 - son commit");
 	}
 
 }
