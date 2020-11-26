@@ -3,8 +3,9 @@ package git;
 public class Grup {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+      System.out.println("13:52 -ilk commit");
+      
 	}
 
 }
