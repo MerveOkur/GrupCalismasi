@@ -6,6 +6,7 @@ public class Grup {
 		
       System.out.println("13:52 - ilk commit");
       System.out.println("15:00 - ikinci commit");
+      System.out.println("15:07 - ucuncu commit");
 	}
 
 }
